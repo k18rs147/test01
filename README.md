@@ -31,7 +31,7 @@ You can jump to [GitHub](https://github.com) easily.
 Table is also easy.
 
 |Team   | Win  | Lose   |  Draw |
-|-------|-----:|-------:|------:|
+|-------:|-----:|-------:|------:|
 |Hawls  |    46|      34|      4|
 |Eagles  |    46|      36|      2|
 |Marines|    42|      39|      3|
